@@ -1,0 +1,5 @@
+C:\Users\yana\documents\visual studio 2010\Projects\VanillaMain1\VanillaMain1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\yana\documents\visual studio 2010\Projects\VanillaMain1\VanillaMain1\bin\Release\VanillaMain1.exe
+C:\Users\yana\documents\visual studio 2010\Projects\VanillaMain1\VanillaMain1\bin\Release\VanillaMain1.pdb
+C:\Users\yana\documents\visual studio 2010\Projects\VanillaMain1\VanillaMain1\obj\x86\Release\VanillaMain1.exe
+C:\Users\yana\documents\visual studio 2010\Projects\VanillaMain1\VanillaMain1\obj\x86\Release\VanillaMain1.pdb
